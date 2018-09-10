@@ -29,4 +29,4 @@ GPUImage是iOS平台常见的滤镜库，可惜它提供的预览功能不支持
 * 稳定性优化
 
 ### 效果预览
-![img_0371](https://user-images.githubusercontent.com/7299189/45276499-486eac80-b4f5-11e8-9fae-ae19c2da9fbb.PNG)
+![img_0372](https://user-images.githubusercontent.com/7299189/45276685-55d86680-b4f6-11e8-992a-8f9c073eb466.PNG)
