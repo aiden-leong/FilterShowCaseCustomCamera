@@ -24,3 +24,6 @@ GPUImage是iOS平台常见的滤镜库，可惜它提供的预览功能不支持
 * 录像
 * 中文汉化支持
 * 稳定性优化
+
+### 效果预览
+![img_0371](https://user-images.githubusercontent.com/7299189/45276499-486eac80-b4f5-11e8-9fae-ae19c2da9fbb.PNG)
