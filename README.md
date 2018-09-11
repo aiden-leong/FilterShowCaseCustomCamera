@@ -11,7 +11,7 @@ FilterShowcase is a demo that has a bunch of filters but it's camera is in Auto 
 ----
 
 ### 关于这个项目
-Apple官方在WWDC上发布一个自定义相机的demo软件，质量不错。
+AVCamManual是Apple官方在WWDC上发布一个自定义相机的demo软件，质量不错。
 
 GPUImage是iOS平台常见的滤镜库，可惜它提供的预览功能不支持自定义相机。
 
